@@ -1,12 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selfie</title>
+    <title>juni.io</title>
     <link>https://juni.io/</link>
-    <description>Recent content on Selfie</description>
+    <description>Recent content on juni.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <atom:link href="https://juni.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://juni.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juni.io/cv/</guid>
+      <description>
+
+&lt;h2 id=&#34;software-engineer-zalando-se&#34;&gt;Software Engineer - Zalando SE&lt;/h2&gt;
+
+&lt;p&gt;(Mar 2015 – Present) / Berlin, Germany&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implement a DDos Solution to mitigate cloud-based traffic (AWS/GCP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/akamai-open/AkamaiOPEN-edgegrid-golang&#34;&gt;Developing a Akamai Open Source Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;system-engineer-zalando-se&#34;&gt;System Engineer - Zalando SE&lt;/h2&gt;
+
+&lt;p&gt;(Jun 2014 – Mar 2015) / Berlin, Germany&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maintain Zalando&amp;rsquo;s data centers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zalando-incubator/baboon-proxy&#34;&gt;Release of my first open source project, providing an API to automate service endpoints (DNS/IP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Working on a deployment framework using Mesos/Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;system-engineer-zalando-ag&#34;&gt;System Engineer - Zalando AG&lt;/h2&gt;
+
+&lt;p&gt;(Jul 2013 - Jun 2014) / Berlin, Germany&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Set up a second Zalando data center&lt;/li&gt;
+&lt;li&gt;Set up a payment infrastructure which fits for Zalando&lt;/li&gt;
+&lt;li&gt;Design and setup a new load balancer infrastructure&lt;/li&gt;
+&lt;li&gt;Implementation of an global traffic manager to distribute DNS-based requests across data centers&lt;/li&gt;
+&lt;li&gt;CDN project in order to serve millions of images&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;system-operations-zalando-ag&#34;&gt;System Operations - Zalando AG&lt;/h2&gt;
+
+&lt;p&gt;(Oct 2011 - Jul 2013) / Berlin, Germany&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;24x7 Team of Zalando&lt;/li&gt;
+&lt;li&gt;Monitoring the Zalando site, responding to alerts, and troubleshooting&lt;/li&gt;
+&lt;li&gt;Technical support of platform/servers&lt;/li&gt;
+&lt;li&gt;Managing incidents that arise, escalating to the correct teams, and handling communication&lt;/li&gt;
+&lt;li&gt;Building/Improving a reliable monitoring system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;system-administrator-walter-werbung-gmbh&#34;&gt;System Administrator - Walter Werbung GmbH&lt;/h2&gt;
+
+&lt;p&gt;(Jul 2011 – Sep 2011) / Berlin, Germany&lt;/p&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OSZ IMT (2008 - 2011) / Berlin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tech.zalando.com/blog/building-services-with-the-akamai-api-open-api-using-go/&#34;&gt;Building services with the Akamai OPEN API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
