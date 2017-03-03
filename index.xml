@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>juni.io</title>
-    <link>https://juni.io/</link>
+    <link>https://juni.io/index.xml</link>
     <description>Recent content on juni.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
@@ -73,6 +73,12 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tech.zalando.com/blog/building-services-with-the-akamai-api-open-api-using-go/&#34;&gt;Building services with the Akamai OPEN API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;url=search-alias%3Dalexa-skills&amp;amp;field-keywords=Nick+J%C3%BCttner&#34;&gt;Creating Alexa skills for Amazon Echo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

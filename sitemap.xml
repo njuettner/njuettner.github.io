@@ -2,11 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://juni.io/</loc>
+    <loc>https://juni.io/cv/</loc>
   </url>
   
   <url>
-    <loc>https://juni.io/cv/</loc>
+    <loc>https://juni.io/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
