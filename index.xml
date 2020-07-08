@@ -12,13 +12,22 @@
     
     <item>
       <title></title>
+      <link>https://juni.io/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juni.io/books/</guid>
+      <description>Soon</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://juni.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://juni.io/cv/</guid>
-      <description>Software Engineer - Zalando SE (Mar 2015 – Present) / Berlin, Germany
- Building Zalando&#39;s Kubernetes Infrastructure on AWS Working on Zalando Payments AWS infrastructure becoming PCI-DSS certified Implement a DDos Solution to mitigate cloud-based traffic (AWS/GCP) Developing a Akamai Open Source Library  System Engineer - Zalando SE (Jun 2014 – Mar 2015) / Berlin, Germany
- Maintain Zalando&#39;s data centers Release of my first open source project, providing an API to automate service endpoints (DNS/IP) Working on a deployment framework using Mesos/Kubernetes  System Engineer - Zalando AG (Jul 2013 - Jun 2014) / Berlin, Germany</description>
+      <description>Platform Engineer - Giant Swarm (May 2020 – Present) / Remote
+ Responsible for architecting and building distributed systems (Kubernetes, Go)  Software Engineer - Zalando SE (Mar 2015 – Present) / Berlin, Germany
+ Building Zalando&amp;rsquo;s Kubernetes Infrastructure on AWS Working on Zalando Payments AWS infrastructure becoming PCI-DSS certified Implement a DDos Solution to mitigate cloud-based traffic (AWS/GCP) Developing a Akamai Open Source Library  System Engineer - Zalando SE (Jun 2014 – Mar 2015) / Berlin, Germany</description>
     </item>
     
   </channel>
