@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://juni.io/books/</guid>
-      <description>Soon</description>
+      <description>Recommended Books
+ Atomic Habits: An Easy &amp;amp; Proven Way to Build Good Habits &amp;amp; Break Bad Ones (James Clear) Deep Work: Rules for Focused Success in a Distracted World (Cal Newport) Digital Minimalism: Choosing a Focused Life in a Noisy World (Cal Newport) Essentialism: The Disciplined Pursuit of Less (Greg McKeown) Meditations (Marcus Aurelius) The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Mark Manson) Thinking, Fast and Slow (Daniel Kahneman) Why We Sleep: Unlocking the Power of Sleep and Dreams (Matthew Walker)  </description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       
       <guid>https://juni.io/cv/</guid>
       <description>Platform Engineer - Giant Swarm (May 2020 – Present) / Remote
- Responsible for architecting and building distributed systems (Kubernetes, Go)  Software Engineer - Zalando SE (Mar 2015 – Present) / Berlin, Germany
+Responsible for building and developing Giant Swarm&amp;rsquo;s open-source infrastructure management platform (Kubernetes, Go)
+ Cluster API (CAPI) / Cluster API Provider AWS (CAPA) AWS Infrastructure Kubernetes CRD / Conversion Kubernetes Operators ☸️  Software Engineer - Zalando SE (Mar 2015 – Present) / Berlin, Germany
  Building Zalando&amp;rsquo;s Kubernetes Infrastructure on AWS Working on Zalando Payments AWS infrastructure becoming PCI-DSS certified Implement a DDos Solution to mitigate cloud-based traffic (AWS/GCP) Developing a Akamai Open Source Library  System Engineer - Zalando SE (Jun 2014 – Mar 2015) / Berlin, Germany</description>
     </item>
     
