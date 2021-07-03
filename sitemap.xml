@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://juni.io/books/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://juni.io/cv/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://juni.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://juni.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://juni.io/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://juni.io/tags/</loc>
   </url>
-  
 </urlset>

@@ -5,11 +5,7 @@
     <link>https://juni.io/</link>
     <description>Recent content on juni.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://juni.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language><atom:link href="https://juni.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://juni.io/books/</link>
